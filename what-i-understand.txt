@@ -10,6 +10,8 @@ the size of the div based on the screen size  like lg , md ,sm and others
 ... class /.row/ is the same as the d-flex so , you can use the properties we use
 on the div that use the display flex such as align-items-center , justify-content-center/between/around and others
 
+          ----------Search for : Box-shadow paremeters with their effect--------
+
             -----I will continue to 
 
                          Try!Try!Try!Try!Try!Try!

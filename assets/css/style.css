@@ -133,3 +133,11 @@ section{
    align-items: center;
    justify-content: center;
  }
+
+ /* Team */
+
+ .team-member img{
+   max-width: 140px;
+   box-shadow: -10px -10px 0 #F58d17;
+   border-radius: 100px;
+ }
